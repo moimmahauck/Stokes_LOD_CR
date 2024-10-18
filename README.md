@@ -1,2 +1,2 @@
 # Stokes_LOD_CR
-Matlab implementation of LOD method for heterogeneous Stokes problems.
+Matlab code to reproduce the numerical experiments of the paper "A Localized Orthogonal Decomposition Method for Heterogeneous Stokes Problems" by M. Hauck and A. Lozinski. If you use this code, please cite the paper. Some parts of this code are based on the code published together with the book "Numerical homogenization by localized orthogonal decomposition" by A. Målqvist and D. Peterseim (SIAM Spotlights 5, ISBN: 978-1-611976-44-1, 2020).
